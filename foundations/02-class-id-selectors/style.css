@@ -1,0 +1,23 @@
+
+.basic {
+    background-color: #f8022b80;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.more {
+    font-size: 24px;
+}
+
+#first {
+    color: rgb(28, 3, 250);
+    font-size: 36px;
+}
+
+#second {
+    background-color: hsl(100, 60%, 70%);
+    font-size: 24px;
+    font-weight: bold;
+    
+    
+}
